@@ -1,0 +1,271 @@
+
+Cliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Benzetacil
+Tipo: Remédio
+Marca: Schering-Plough
+Preço: 17.99
+
+Nome: Fralda Supreme Care P
+Tipo: Outros
+Marca: Huggies
+Preço: 49.9
+
+Valor Total da Compra: 67.89
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 1234567
+
+** Produtos Comprados **
+
+Nome: Absorvente Externo Noturno Plus Noite e Dia Suave 32un
+Tipo: Outros
+Marca: Sempre Livre
+Preço: 26.72
+
+Nome: Isotretinoína
+Tipo: Remédio
+Marca: Eurofarma
+Preço: 82.75
+
+Valor Total da Compra: 109.47
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Benzetacil
+Tipo: Remédio
+Marca: Schering-Plough
+Preço: 17.99
+
+Nome: Ivermectina
+Tipo: Remédio
+Marca: Germad
+Preço: 18.69
+
+Nome: Sorvete Kibon Cremosíssimo Napolitano 1,5 Litro
+Tipo: Outros
+Marca: Kibon
+Preço: 29.9
+
+Valor Total da Compra: 66.58
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 23
+
+** Produtos Comprados **
+
+Nome: Escova de dente portátil para viagem
+Tipo: Outros
+Marca: Needs
+Preço: 3.99
+
+Valor Total da Compra: 3.99
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 2
+
+** Produtos Comprados **
+
+Nome: Absorvente Externo Noturno Plus Noite e Dia Suave 32un
+Tipo: Outros
+Marca: Sempre Livre
+Preço: 26.72
+
+Valor Total da Compra: 26.72
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Fralda Supreme Care P
+Tipo: Outros
+Marca: Huggies
+Preço: 49.9
+
+Nome: Rivotril
+Tipo: Remédio
+Marca: Roche
+Preço: 27.01
+
+Nome: Torsilax
+Tipo: Remédio
+Marca: Neo Química
+Preço: 17.69
+
+Valor Total da Compra: 94.60
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Absorvente Externo Noturno Plus Noite e Dia Suave 32un
+Tipo: Outros
+Marca: Sempre Livre
+Preço: 26.72
+
+Nome: Neosoro
+Tipo: Remédio
+Marca: Neo Química
+Preço: 6.29
+
+Nome: Ivermectina
+Tipo: Remédio
+Marca: Germad
+Preço: 18.69
+
+Valor Total da Compra: 51.70
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Fio Dental Johnson's Reach Essencial Sabor Menta
+Tipo: Outros
+Marca: Johnson's
+Preço: 12.19
+
+Nome: Neosoro
+Tipo: Remédio
+Marca: Neo Química
+Preço: 6.29
+
+Nome: Torsilax
+Tipo: Remédio
+Marca: Neo Química
+Preço: 17.69
+
+Valor Total da Compra: 36.17
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Absorvente Externo Noturno Plus Noite e Dia Suave 32un
+Tipo: Outros
+Marca: Sempre Livre
+Preço: 26.72
+
+Nome: Fio Dental Johnson's Reach Essencial Sabor Menta
+Tipo: Outros
+Marca: Johnson's
+Preço: 12.19
+
+Nome: Dipirona
+Tipo: Remédio
+Marca: EMS S/A
+Preço: 5.99
+
+Nome: Rivotril
+Tipo: Remédio
+Marca: Roche
+Preço: 27.01
+
+Valor Total da Compra: 71.91
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Fio Dental Johnson's Reach Essencial Sabor Menta
+Tipo: Outros
+Marca: Johnson's
+Preço: 12.19
+
+Nome: Torsilax
+Tipo: Remédio
+Marca: Neo Química
+Preço: 17.69
+
+Nome: Isotretinoína
+Tipo: Remédio
+Marca: Eurofarma
+Preço: 82.75
+
+Nome: Gatorade Frutas Cítricas Isotônico com 500ml
+Tipo: Outros
+Marca: Gatorade
+Preço: 9.25
+
+Valor Total da Compra: 121.88
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Fralda Supreme Care P
+Tipo: Outros
+Marca: Huggies
+Preço: 49.9
+
+Nome: Neosoro
+Tipo: Remédio
+Marca: Neo Química
+Preço: 6.29
+
+Nome: Isotretinoína
+Tipo: Remédio
+Marca: Eurofarma
+Preço: 82.75
+
+Valor Total da Compra: 138.94
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Absorvente Externo Noturno Plus Noite e Dia Suave 32un
+Tipo: Outros
+Marca: Sempre Livre
+Preço: 26.72
+
+Nome: Sorvete Kibon Cremosíssimo Napolitano 1,5 Litro
+Tipo: Outros
+Marca: Kibon
+Preço: 29.9
+
+Nome: Neosoro
+Tipo: Remédio
+Marca: Neo Química
+Preço: 6.29
+
+Valor Total da Compra: 62.91
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAVCliente 
+CPF: 123
+
+** Produtos Comprados **
+
+Nome: Fralda Supreme Care P
+Tipo: Outros
+Marca: Huggies
+Preço: 49.9
+
+Valor Total da Compra: 49.90
+
+Obrigado pela Preferência
+Volte sempre, atenciosamente Farmácia LAV
